@@ -7,6 +7,59 @@
 - useState 与 useRef 的功能与区别
 - 封装一个倒计时 hook
 
+#### react 单 html 代码
+
+- 引入 `react.development.js` 核心库
+- 引入`react-dom.development.js` 支持 react 操作 DOM
+- 引入`babel.min.js` 将 jsx 转为 js
+
+```html
+<script type="text/babel">
+  // JSX 语法
+  const vDOM = <h1>HELLO</h1>; // 虚拟DOM
+  const rDOM = document.getElementbyId("app");
+  ReactDOM.render(vDOM, rDOM);
+</script>
+```
+
+#### JSX 语法
+
+不能写引号，可用括号'()'；
+只能有一个根目录，必须闭合；
+标签中 js 表达式，使用{}，注释也用{}包起来；
+标签中样式的类名，用 `className` 执行；
+内联样式用 `style={{color:"white"}}`，属性名转为小驼峰；
+标签首字母：
+大写：React 会寻找与之同名的组件，找到则使用，未找到则报错；
+小写：React 找同名的 html 标签，找到则转为 html 同名元素，未找到则报错。
+事件："onClick"
+
+#### React 类组件生命周期
+
+16.3.0 版本前
+16.3.0 版本后
+
+重要的：
+
+- constructor
+  通常只做 2 件事：
+  通过给 `this.state` 赋值对象来初始化内部的 state;
+  为事件绑定实例（this）。
+- componentDidMount
+  在组件挂载后（插入 DOM 树中）立即调用
+  - 依赖于 DOM 的操作可以在这里进行；
+  - 在此处发送网络请求（官方建议）
+  - 可在此处添加一些订阅
+- componentDidUpdate
+  在更新后会被立即调用（首次渲染不会执行）
+  - 组件更新后，可在此处对 DOM 进行操作；
+  - 若对更新前后的 props 比较，可在此处进行网络请求
+    当 props 未发生变化时，则不会执行网络请求
+- componentWillUnmount
+  在组件卸载及销毁之前调用
+  - 此方法中执行必要的清理操作
+  - 例：清理 timer；取消网络请求；清除 componentDidMount 中的订阅。
+
 #### 大神们用到的技术
 
 - 后台管理用 antd mui 比较多，开发效率高，antd 的问题是全局样式污染，mui 的默认组件信息密度过小了。

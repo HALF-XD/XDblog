@@ -25,16 +25,20 @@
   - [FEO](docs/FrontEnd/FEO.md)
   - [TypeScript-note](docs/FrontEnd/TypeScript-note.md)
   - [test.html](docs/FrontEnd/test.html)
+  - [Webpack React note](docs/FrontEnd/Webpack-React-Demo.md)
 - CSS
   - [CSS note](docs/FrontEnd/CSS/CSS-note.md)
   - [HTML note](docs/FrontEnd/CSS/HTML-note.md)
   - [Image & Icon](docs/FrontEnd/CSS/Img-Icon.md)
   - [LESS 基本语法总结](docs/FrontEnd/CSS/LESS基本语法总结.md)
 - JavaScript
+  - [浏览器缓存](docs/FrontEnd/JavaScript/浏览器缓存.md)
   - [Cases](docs/FrontEnd/JavaScript/Cases.md)
   - [DOM](docs/FrontEnd/JavaScript/DOM.md)
   - [ES6](docs/FrontEnd/JavaScript/ES6.md)
   - [JavaScript](docs/FrontEnd/JavaScript/JavaScript.md)
+  - [Jquery](docs/FrontEnd/JavaScript/Jquery.md)
+  - [Promise note](docs/FrontEnd/JavaScript/Promise.md)
 - React
   - [React API](docs/FrontEnd/React/ReactAPI.md)
   - [React Record](docs/FrontEnd/React/ReactRecord.md)
