@@ -1,32 +1,47 @@
+<!-- webpack https://webpack.docschina.org/configuration/ -->
 
-* index
-    * [主页](/)
-    * [docsify 样式](user/docsify_demo.md)
-
-* Web3
-    * [web3 note](Web3/web3-note.md)
-    * [record_nft-auction](Web3/record_nft-auction.md)
-    * [Solidity](Web3/Solidity.md)
-    * [web3-nft-mint](Web3/web3-nft-mint.md)
-
-* Front end
-    * [CSS note](Front/CSS-note.md)
-    * [Img&Icon](Front/Img%26Icon.md)
-    * [JavaScript](Front/JavaScript.md)
-    * [React API](Front/React%20API.md)
-    * [ReactRecord](Front/ReactRecord.md)
-    * [TypeScript-note](Front/TypeScript-doc.md)
-
-* Back end
-    * [C note](BackendOps/C-note.md)
-    * [JS note](BackendOps/JS-note.md)
-    * [Linux](BackendOps/Linux.md)
-    * [MySQL](BackendOps/MySQL.md)
-    * [git](BackendOps/Git.md)
-    * [tricks](BackendOps/Bilibili.md)
-    * [HTTPS website](BackendOps/HTTPS.md)
-
-* [Links](others/Links.md)
-* [Leetcode记录](others/Leetcode.md)
-* [Algo Record](others/math_algo.md)
-* [En Record](others/EN.md)
+- [导航](docs/Links.md)
+- [Docsify demo](docs/Docsify_demo.md)
+- Algorithm
+  - [Leetcode](docs/Algorithm/Leetcode.md)
+  - [Math & Algo](docs/Algorithm/Math_algo.md)
+  - [Sort](docs/Algorithm/Sort.md)
+- BackendOps
+  - [Bilibili](docs/BackendOps/Bilibili.md)
+  - [C note](docs/BackendOps/C-note.md)
+  - [Git](docs/BackendOps/Git.md)
+  - [Golang](docs/BackendOps/Golang.md)
+  - [Linux](docs/BackendOps/Linux.md)
+  - [MySQL](docs/BackendOps/MySQL.md)
+- ComputerNetwork
+  - [HTTPS](docs/ComputerNetwork/HTTPS.md)
+  - [Catalogue](docs/ComputerNetwork/Catalogue.md)
+  - [ComputerNetwork](docs/ComputerNetwork/ComputerNetwork.md)
+  - [XHR 请求](docs/XHR请求.md)
+- DataStructure
+  - [图 Graph](docs/DataStructure/图的定义.md)
+  - [DataStructure](docs/DataStructure/DataStructure.md)
+- FrontEnd
+  - [FEO](docs/FrontEnd/FEO.md)
+  - [TypeScript-note](docs/FrontEnd/TypeScript-note.md)
+  - [test.html](docs/FrontEnd/test.html)
+- CSS
+  - [CSS note](docs/FrontEnd/CSS/CSS-note.md)
+  - [HTML note](docs/FrontEnd/CSS/HTML-note.md)
+  - [Image & Icon](docs/FrontEnd/CSS/Img-Icon.md)
+  - [LESS 基本语法总结](docs/FrontEnd/CSS/LESS基本语法总结.md)
+- JavaScript
+  - [Cases](docs/FrontEnd/JavaScript/Cases.md)
+  - [DOM](docs/FrontEnd/JavaScript/DOM.md)
+  - [ES6](docs/FrontEnd/JavaScript/ES6.md)
+  - [JavaScript](docs/FrontEnd/JavaScript/JavaScript.md)
+- React
+  - [React API](docs/FrontEnd/React/ReactAPI.md)
+  - [React Record](docs/FrontEnd/React/ReactRecord.md)
+- Others
+  - [英语记录](docs/Others/EN.md)
+- Web3
+  - [nft-auction Record](docs/Web3/Record_nft-auction.md)
+  - [Solidity](docs/Web3/Solidity.md)
+  - [Web3 nft-mint](docs/Web3/Web3-nft-mint.md)
+  - [Web3 note](docs/Web3/Web3-note.md)

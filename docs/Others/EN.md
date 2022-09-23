@@ -1,15 +1,86 @@
 #### 积累
 
-`assembly` 
+`assembly`
 `duplicate`
 `acronym`
+
+```
+Inn 客栈 innkeeper 客栈老板
+bargin 减价品 便宜货 协商 讨价还价
+火车票： train ticket，railway ticket。
+机票 plane ticket、passenger ticket，
+airfare: the money that you pay to travel by plane.
+```
+
+#### 计算机积累
+
+##### HTML
+
+```
+HTML - Hyper Text Markup Language  超文本标记语言
+MIME - Multipurpose Internet Mail Extensions  多用途互联网邮件扩展类型
+XHTML - The Extensible HyperText Markup Language  可扩展超文本标记语言
+UTF-8 - Universal Character Set/Unicode Transformation Format
+gb2312 -
+SEO - Search Engine Optimization 搜索引擎优化
+href - Hypertext Reference
+URL - Uniform Resource Locator 统一资源定位符
+URI - Uniform Resource Identifier 统一资源标识符
+Unicode - Universal Multiple-Octet Coded Charcter 字符集编码
+```
+
+##### CSS
+
+```
+<! DOCTYPE> - document type 文档类型
+<p> - Paragraph，段落的意思 。
+<a> - anchor 锚
+<br> - Barter rabbet，空标签,有换行的作用
+src - source 源文件
+<abbr> - abbreviation 缩写
+transform：转换 HTML 实现元素位移 translate，缩放 rotate，旋转 scale
+pixel 像素
+linear Gradient 线性渐变
+avatar 头像
+Quirks mode - 怪异模式
+```
+
+##### bash
+
+```
+npm - node package management
+CR - Carriage Return 回车符
+LF - Line Feed 换行符
+REST - REpresentational State Transfer 表征状态转移
+Negotiation 协商
+CORS - (Cross Origin Resource Sharing) 跨域资源共享
+集成开发环境 IDE（integrated development environment）
+CLI 一般指命令行界面。命令行界面（英语：command-line interface，缩写：CLI）
+npm=node package management;
+RegExp - regular expression 正则表达式
+horizontally 水平地
+vertically 垂直地
+opacity 不透明度
+"读取-求值-输出" 循环(英语:Read-Eval-Print Loop,简称 REPL)
+polyfill 腻子脚本
+mustache 双大括号
+decretive 指令 order、command、instructions、directive
+compilation 编译
+acronym 首母缩略字
+seckill 秒杀
+colon 冒号
+倒计时 count down
+indicator 指示信号;标志;迹象;指示器;指针;转向灯;方向灯
+Favicon 网站图标
+SEO （Search Engine Optimization） 搜索引擎优化
+```
 
 #### 数字
 
 基变序有规律,
-123特殊记，th从4来加起，
-8去t来9去e，ve要用f替，
-ty要变tie，然后再加th，
+123 特殊记，th 从 4 来加起，
+8 去 t 来 9 去 e，ve 要用 f 替，
+ty 要变 tie，然后再加 th，
 要是遇到几十几，十位基数个位序。
 
 ```txt
@@ -46,9 +117,9 @@ Hi, my name's Shey, it's good to see you.
 (1) 正式场合 Greetings
 
 ```tex
-1. 
-	good morning 
-	good afternoon 
+1.
+	good morning
+	good afternoon
 	good evening
 2. My name’s... / I'm... // 正式场合用全名
 3. It’s ... to ... you
@@ -139,7 +210,7 @@ Position
 	power cut // 断供（英）
 造句：
 We had a power outage for about 5 minutes. (have a power outage)
-	
+
 口语常用
 	The power go out 造句：the power just went out.
 	The power/electricity is out 造句：The power is out, I forgot electric / electricity bill
@@ -148,4 +219,3 @@ We had a power outage for about 5 minutes. (have a power outage)
 延伸
 black Out // 是有那种灾害性的大范围长时间停电的意思。类似全城交通瘫痪那种。如果只是短期是，或者自己家停电应该不算。
 ```
-

@@ -1,6 +1,6 @@
-LinuxC 文档 https://akaedu.github.io/book/ch24s02.html
 
-一个博主的关于C的博文 https://blog.csdn.net/m0_49425260/category_10956932.html
+- LinuxC 文档 https://akaedu.github.io/book/ch24s02.html
+- 一个博主的关于C的博文 https://blog.csdn.net/m0_49425260/category_10956932.html
 
 #### 第一个例子
 

@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <title>Document</title>
@@ -12,7 +13,8 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar-folder.min.css" />
   <!-- toc[css] -->
-  <link rel="stylesheet" href="https://unpkg.com/docsify-plugin-toc@1.3.1/dist/light.css">  
+  <link rel="stylesheet" href="https://unpkg.com/docsify-plugin-toc@1.3.1/dist/light.css">
+  <link rel="stylesheet" href="./detail.css">
 </head>
 
 <body>
@@ -22,26 +24,26 @@
     window.$docsify = {
       // GENERAL
       // -----------------------------------------------------------------
-      el        : '#app', // 该DOM在初始化时挂载
-      name      : "XD",
-      nameLink  : 'https://www.github.com', 
-      logo      : '',
-      repo      : 'https://github.com/', // github图标 右上角
+      el: '#app', // 该DOM在初始化时挂载
+      name: "XD",
+      nameLink: 'https://www.github.com',
+      logo: '',
+      repo: 'https://github.com/', // github图标 右上角
       themeColor: '#000',
-      loadNavbar    : true, // 加载导航栏 '_navbar.md'
-      loadSidebar   : true, // 加载侧边栏 '_sidebar.md'
+      loadNavbar: true, // 加载导航栏 '_navbar.md'
+      loadSidebar: true, // 加载侧边栏 '_sidebar.md'
       // coverpage     : true, // 添加头屏页面  '_coverpage.md'
 
       // NAVIGATION
       // -----------------------------------------------------------------
-      auto2top   : true,
+      auto2top: true,
       // subMaxLevel: 3,     // 最大的目录等级
       mergeNavbar: true,  // 小屏设备下合并导航栏到侧边栏
 
       tabs: {
-        persist    : true,      // 页面刷新/重新访问后是否将恢复选项卡选择
-        sync       : true,      // 选项卡的选择是否将与匹配的标签跨选项卡同步
-        theme      : 'classic', // default
+        persist: true,      // 页面刷新/重新访问后是否将恢复选项卡选择
+        sync: true,      // 选项卡的选择是否将与匹配的标签跨选项卡同步
+        theme: 'classic', // default
         tabComments: true,      // default
         tabHeadings: true       // default
       },
@@ -49,10 +51,10 @@
       // PLUGINS
       // -----------------------------------------------------------------
       search: {
-        depth       : 3,
-        paths       : 'auto',
-        noData      : {'/': 'No results!'},
-        placeholder : {'/': 'Search...'}
+        depth: 3,
+        paths: 'auto',
+        noData: { '/': 'No results!' },
+        placeholder: { '/': 'Search...' }
       },
 
       'flexible-alerts': {
@@ -85,10 +87,10 @@
           var footer = [
             '<hr/>',
             '<footer style="text-align: center">',
-              '<p>XD</p>',
+            '<p>XD</p>',
             '</footer>'
           ].join('');
-          
+
           hook.afterEach(function (html) {
             var isReadme = window.location.href.indexOf("README");
             if (isReadme === -1) {
@@ -119,11 +121,12 @@
   <!-- 回到顶部功能 -->
   <script src="https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js"></script>
   <script>addBackToTop({
-    diameter: 56,
-    backgroundColor: '#000',
-    textColor: '#FFF'
-  })
+      diameter: 56,
+      backgroundColor: '#000',
+      textColor: '#FFF'
+    })
   </script>
 
 </body>
+
 </html>

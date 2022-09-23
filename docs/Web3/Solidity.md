@@ -1,6 +1,6 @@
 #### 合约
 
-##### 合约中的时间 
+##### 合约中的时间
 
 秒级的，不是毫秒级的。
 
@@ -21,13 +21,12 @@ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contr
 import './IERC20.sol';
 ```
 
-faucet功能
-
-https://cryptomarketpool.com/create-a-crypto-faucet-using-a-solidity-smart-contract/
-
 报错
 
 ```
 This declaration shadows an existing declaration
 ```
 
+#### slidity 中的数字处理
+
+bigint

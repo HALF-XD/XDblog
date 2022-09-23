@@ -1,4 +1,4 @@
-#### B站视频下载
+#### B 站视频下载
 
 下载视频
 
@@ -19,13 +19,10 @@ rm *.cmt.xml
 find . -name '*.flv' -exec ffmpeg -i {} bak/{}.mp4 \;
 ```
 
-#### B站视频倍速播放
+#### B 站视频倍速播放
 
 控制台输入
 
 ```js
-document.querySelector('video').playbackRate = 2.5 // 数字可更改
+document.querySelector("video").playbackRate = 2.5; // 数字可更改
 ```
-
-
-
