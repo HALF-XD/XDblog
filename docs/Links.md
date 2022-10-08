@@ -1,30 +1,4 @@
-### 链接
-
-#### 读书写作网站
-
-- [在线代码截图](https://www.dute.org/code-snapshot)
-- [在线画图工具 ProcessOn](https://www.processon.com/)
-- [在线画图工具 Draw.io](https://app.diagrams.net/)
-- [在线思维导图工具 MindLine](http://www.mindline.cn/webapp)
-- [在线字数统计工具](https://www.eteste.com/)
-- [md2all markdown 排版工具](http://md.aclickall.com/)
-- [在线代码截图工具](https://carbon.now.sh/)
-
-#### 在线编辑代码
-
-- [playcode](https://playcode.io/943013/) 速度快
-- [stackblitz](stackblitz.com) 功能功能很全 有 Vite
-- [codesandbox](codesandbox.io) 慢 没有 Vite
-
-#### 有趣的网站
-
-- [在线玩音乐](https://aidn.jp/mikutap/)
-- [生成迷宫](http://www.mazegenerator.net/)
-- [在线画图创作](https://flipanim.com/)
-- [打字游戏](https://zty.pe/)
-- [zoomquilt](http://zoomquilt.org/)
-- [下围棋，主页还有另外几个 js 写的小游戏](http://159.75.26.117:9471/chess/)
-- 2.5D 轴视图 https://icograms.com/
+### self链接
 
 #### 博客
 
@@ -39,25 +13,7 @@
   - 超详细的 Web 前端学习笔记 https://web.qianguyihao.com/
   - [disqus - 博客评论工具](https://blog.disqus.com/)
 
-#### icon & img & svg
-
-- [在线画 SVG 图](https://yqnn.github.io/svg-path-editor)
-- [[shields.io] 制作小图标 svg](https://shields.io/)
-- [路过图床](https://imgtu.com/)
-
-#### 工具网站
-
-- Base64 在线编码解码 https://base64.us/#
-- Unix 时间戳转换 https://tool.chinaz.com/tools/unixtime.aspx
-- [X6 AntV](https://picsum.photos/) 提供了一系列开箱即用的交互组件和简单易用的节点定制能力，方便我们快速搭建 DAG 图、ER 图、流程图等应用.
-
-#### RegExp 正则
-
-- [iHateRegex 一个收录各种正则表达式的网站](https://ihateregex.io/)
-- [快速学习正则 + 正则手册 + 测试 的网站](https://regexlearn.com/zh-cn/playground)
-- [正则表达式可视化调试 ](https://regex101.com/)
-
-#### 具体功能
+#### 前端具体功能
 
 - 手撸一个在线 css 三角形生成器 https://juejin.cn/post/6903083072661487624#heading-5
 - HTML5 进阶系列：文件上传下载 https://zhuanlan.zhihu.com/p/27677175

@@ -1,6 +1,7 @@
 <!-- webpack https://webpack.docschina.org/configuration/ -->
 
 - [导航](docs/Links.md)
+- [Nav](docs/pubLinks.md)
 - [Docsify demo](docs/Docsify_demo.md)
 - Algorithm
   - [Leetcode](docs/Algorithm/Leetcode.md)

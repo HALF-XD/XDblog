@@ -32,8 +32,9 @@
       themeColor: '#000',
       loadNavbar: true, // 加载导航栏 '_navbar.md'
       loadSidebar: true, // 加载侧边栏 '_sidebar.md'
+      topMargin: 100,
       // coverpage     : true, // 添加头屏页面  '_coverpage.md'
-
+      ga: 'G-6L9XK41XV1', // 谷歌统计
       // NAVIGATION
       // -----------------------------------------------------------------
       auto2top: true,
@@ -54,7 +55,20 @@
         depth: 3,
         paths: 'auto',
         noData: { '/': 'No results!' },
-        placeholder: { '/': 'Search...' }
+        placeholder: { '/': '🔍 Search...' }
+      },
+
+      count: {
+        countable: true,
+        fontsize: '0.9em',
+        color: 'rgb(90,90,90)',
+        language: 'chinese'
+      },
+
+      timeUpdater: {
+        text: ">last update time: {docsify-updated}",
+        formatUpdated: "{YYYY}/{MM}/{DD}",
+        whereToPlace: "bottom",  // "top" or "bottom", default to "bottom"
       },
 
       'flexible-alerts': {
@@ -108,16 +122,25 @@
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-example-panels"></script>
+  <!-- search -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <!-- alert样式 -->
   <script src="//unpkg.com/docsify-plugin-flexible-alerts"></script>
+  <!-- 文章侧边目录 -->
   <script src="https://unpkg.com/docsify-plugin-toc@1.3.1/dist/docsify-plugin-toc.min.js"></script>
+  <!-- 目录收缩 -->
   <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+  <!-- 代码一键复制 -->
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
   <!-- 代码高亮-bash -->
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-javascript.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-json.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-markdown.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+  <!-- 字数统计 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
+  <!-- time-updater -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
   <!-- 回到顶部功能 -->
   <script src="https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js"></script>
   <script>addBackToTop({
