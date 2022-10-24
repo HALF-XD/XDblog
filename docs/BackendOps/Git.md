@@ -3,6 +3,7 @@
 - [Oh Shit, Git!?!](https://ohshitgit.com/zh) 尴尬场景里的修复方案
 - [On undoing, fixing, or removing commits in git](http://sethrobertson.github.io/GitFixUm/fixup.html) 复杂场景
 - [git 常用的命令](https://blog.csdn.net/weixin_35792271/article/details/112407323)
+- https://www.jianshu.com/p/c2ec5f06cf1a Git Reset 三种模式
 
 ##### 网友经验之谈
 

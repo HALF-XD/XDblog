@@ -29,13 +29,10 @@
 - 开放平台 
     - [微信公众平台](https://mp.weixin.qq.com/)
 - 在线编辑代码
+    - 在线编译代码 https://www.programiz.com/javascript/online-compiler
     - [playcode](https://playcode.io/943013/) 速度快
     - [stackblitz](stackblitz.com) 功能功能很全 有 Vite
     - [codesandbox](codesandbox.io) 相对慢 没有 Vite
-- [Pdf24--免费且易于使用的在线PDF工具](https://tools.pdf24.org/zh/)
-- Base64 在线编码解码 https://base64.us/#
-- Unix 时间戳转换 https://tool.chinaz.com/tools/unixtime.aspx
-- [X6 AntV](https://picsum.photos/) 提供了一系列开箱即用的交互组件和简单易用的节点定制能力，方便我们快速搭建 DAG 图、ER 图、流程图等应用.
 
 #### 前端组件
 
@@ -72,6 +69,7 @@
 - [快速学习正则 + 正则手册 + 测试 的网站](https://regexlearn.com/zh-cn/playground)
 - 正则表达式可视化调试 https://regex101.com
 - 将正则表达式转成解释图片 https://regexper.com
+- [正则表达式30分钟入门教程](https://deerchao.cn/tutorials/regex/regex.htm)
 
 #### 设计工具平台
 
@@ -81,12 +79,4 @@
 - [在线字数统计工具](https://www.eteste.com/)
 - [md2all markdown 排版工具](http://md.aclickall.com/)
 
-#### 有趣的网站
-
-- [在线玩音乐](https://aidn.jp/mikutap/)
-- [生成迷宫](http://www.mazegenerator.net/)
-- [在线画图创作](https://flipanim.com/)
-- [打字游戏](https://zty.pe/)
-- [zoomquilt](http://zoomquilt.org/)
-- [下围棋，主页还有另外几个 js 写的小游戏](http://159.75.26.117:9471/chess/)
-- 2.5D 轴视图 https://icograms.com/
+- 

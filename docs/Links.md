@@ -1,15 +1,15 @@
-### self链接
-
 #### 博客
 
-- 比较全的博客
-  - [三元博客](https://sanyuan0704.top/blogs/net/http/001.html)
+- 比较全的博客教程
   - [千古前端图文教程](https://web.qianguyihao.com/)
-- 大神们的博客
+  - [JavaScript 教程 / CSS3 / Sass](http://www.manongjc.com/javascript/javascript_tutorial.html)
+- 大神们博客
+  - [Dr. Axel Rauschmayer Blog](https://2ality.com/)
+  - [张鑫旭博客](https://www.zhangxinxu.com/) 
   - 刘星 Blog https://www.liuxing.io/blog/semicolons-in-javascript
   - Wscats-CSDN(腾讯前端) https://blog.csdn.net/qq_27080247
   - Wscats-GitHub https://github.com/Wscats/articles
-  - r2coding https://r2coding.com/
+  - [r2coding](https://r2coding.com/) 自学编程以来所用资源和分享内容的大聚合。
   - 超详细的 Web 前端学习笔记 https://web.qianguyihao.com/
   - [disqus - 博客评论工具](https://blog.disqus.com/)
 
@@ -27,23 +27,62 @@
 - w3schools(demo)-国外 https://www.w3schools.com/howto/
 - CSS-各种布局样式 https://csscoco.com/inspiration
 - [素材/模板/代码](www.dowebok.com)
-- [HTML5 Tricks](https://www.html5tricks.com)]
+- [HTML5 Tricks](https://www.html5tricks.com)
+
+#### 颜色 Colors
+
+- [中国色](http://zhongguose.com/) 提供各种中国的传统颜色的名称，CMYK值，RGB值，16进制表示。
+
+#### 字体 Fonts
+
+- [图标库-Font Awesome 中文网](http://www.fontawesome.com.cn/) 一款基于css框架的网页字体图标库，它完全免费
 
 #### CSS 链接
 
-Bootstrap / Sass / Less / Tailwind CSS
-Flex / Grid
+[Bootstrap中文网](https://www.bootcss.com/)  /  Sass / Less / Tailwind CSS / Flex / Grid
 
 - [zh.learnlayout.com](http://zh.learnlayout.com) - 学习 CSS 布局的网站
 - [flexbox froggy](http://flexboxfroggy.com)- 游戏学习 Flex 布局的网站
 - [Animate.css(文字效果库)](https://animate.style)
 - [css: font-family](https://blog.csdn.net/yuemu26/article/details/7004581)
 
+
+
+CSS规范文档 https://www.w3.org/TR/2011/REC-CSS2-20110607/
+
+CSS3-flexbox-HTML5 https://www.w3.org/html/ig/zh/wiki/Css3-flexbox
+
+
+
+#### JS
+
+[JSRUN JS在线编辑器](https://jsrun.net/new) 
+
+[《ECMAScript 6 入门教程》阮一峰](https://es6.ruanyifeng.com/)
+
+
+
+#### React
+
+[react 中文文档](https://zh-hans.reactjs.org/docs/getting-started.html)
+
+#### 移动端
+
+- [手机屏幕尺寸大全](https://uiiiuiii.com/screen/) 
+
 #### C
 
 - [《Linux C 编程一站式学习》](https://akaedu.github.io/book/) 在线文档
+- [郝斌 C 语言和数据结构入门教程](https://www.bilibili.com/video/BV1UU4y1V7Nm)
+- [C语言入门](http://c.biancheng.net/view/1828.html) 
 
 #### web3
+
+[Remix - Solidity IDE](https://ethereum.github.io/browser-solidity/#optimize=false&version=soljson-v0.7.1+commit.f4a555be.js)
+
+[ethers.js 英语文档](https://docs.ethers.io/v5/)  [ethers.js 中文文档](https://learnblockchain.cn/docs/ethers.js/)
+
+[web3.js 英语文档](https://web3js.readthedocs.io/en/v1.8.0/)  [web3.js 中文文档](https://learnblockchain.cn/docs/web3.js/)
 
 - 入门教程网站
   - [《精通以太坊》-以太坊的科普和技术介绍](https://www.8btc.com/book/657056)
@@ -60,19 +99,48 @@ Flex / Grid
 
 #### 各科的视频课程
 
-- [郝斌 C 语言和数据结构入门教程](https://www.bilibili.com/video/BV1UU4y1V7Nm)
 - [「天勤公开课」**KMP**算法易懂版](https://www.bilibili.com/video/BV1jb411V78H)
 - [数据结构与算法基础（青岛大学-王卓）](https://www.bilibili.com/video/BV1nJ411V7bd)】
 - B 站上西北大学耿老师讲的树那一章的课程
 - [计算机网络微课堂](https://www.bilibili.com/video/BV1c4411d7jb)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
-- 学习编译原理建议
-  ```
-  大作业：写一个简单的编译器【从词法分析器、语法分析器，到中间语言转换、目标代码转换器，实现完整编译器。】
-  需要学习：
-  1. 编译的一些知识。词法语法分析，翻译等等。
-  2. 程序运行的逻辑。例如：运行栈，递归调用，参数传递，类型，内存分配等。
-  3. 编程能力的提升。例如：设计程序模块，设计四元式结构，设计符号表，设计运行栈，设计数据结构等等。
-  4. 算法实践。例如：寄存器分配算法，公共子表达式删除等等。你可能会遇到各种各样的问题，然后思考取舍来解决。
-  ```
 - github 很多资源的合集 https://github.com/GrowingGit/GitHub-Chinese-Top-Charts
+
+#### 有趣的网站
+
+- [在线玩音乐](https://aidn.jp/mikutap/)
+- [生成迷宫](http://www.mazegenerator.net/)
+- [在线画图创作](https://flipanim.com/)
+- [打字游戏](https://zty.pe/)
+- [zoomquilt](http://zoomquilt.org/)
+- [下围棋，主页还有另外几个 js 写的小游戏](http://159.75.26.117:9471/chess/)
+- 2.5D 轴视图 https://icograms.com/
+
+#### 其他博客
+
+[博客志 - 优秀个人独立博客导航](http://www.jetli.com.cn/) 建站于2006年，专注于收藏有价值的有效更新的优秀个人独立博客
+
+#### Github Repos
+
+[原生JS实现的贪吃蛇小实例](https://github.com/SunQQQ/snake)
+
+#### 工具
+
+- [Pdf24](https://tools.pdf24.org/zh/) 免费且易于使用的在线PDF工具
+- Base64 在线编码解码 https://base64.us/#    
+- https://tool.ip138.com/base64/  
+- 在线进制转换 https://tool.oschina.net/hexconvert/
+- Unix 时间戳转换 https://tool.chinaz.com/tools/unixtime.aspx
+- [X6 AntV](https://picsum.photos/) 提供了一系列开箱即用的交互组件和简单易用的节点定制能力，方便我们快速搭建 DAG 图、ER 图、流程图等应用.
+
+### 计算机知识
+
+#### 计算机网络
+
+[《计算机网络，自顶向下方法》配套课程  bilibili](https://www.bilibili.com/video/BV1mb4y1d7K7)
+
+#### LC&Algo
+
+- 数据结构和算法动态可视化
+  - https://visualgo.net/zh
+  - https://visualgo.net/en  

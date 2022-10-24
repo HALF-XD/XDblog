@@ -1,3 +1,0 @@
-- https://www.v2ex.com/t/876104
-  - 视频 https://www.bilibili.com/video/BV1gf4y1r79E
-  - doc https://www.yuque.com/aceld/mo95lb/dsk886
